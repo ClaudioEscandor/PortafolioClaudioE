@@ -23,7 +23,7 @@ const About = ({title, dark, id}) => {
               typeSpeed={100}
             />
             <TypeWriterEffect
-              text="Soy un desarrollador front end developer"
+              text="Soy un desarrollador front end"
               textStyle={{fontSize:"1.2rem", fontWeight:"500px"}}
               startDelay={2500}
               cursorColor="black"
