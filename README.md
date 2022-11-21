@@ -1,1 +1,4 @@
-Creacion de portafolio web responsive realizado en react.
+* Creacion de portafolio web.
+* Portafolio web responsible.
+* Realizado en react.
+* Web https://portafolioclaudioe.netlify.app/
